@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+# 登录账号：user@nextmail.com 
+# 密码：123456
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### 数据库地址：https://vercel.com/zhubo92s-projects/nextjs-dashboard/stores/postgres/store_EWKWm9u1fEC4SX7V/data
